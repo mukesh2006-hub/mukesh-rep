@@ -1,0 +1,17 @@
+{
+  "name": "mukesh-web-app",
+  "version": "1.0.0",
+  "description": "A web application with Docker and CI/CD deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["web", "app", "docker"],
+  "author": "mukesh2006-hub",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
